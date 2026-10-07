@@ -4,11 +4,11 @@
 
 ![Estático](https://img.shields.io/badge/Legion-Activa-red)
 
-![Workflow](https://img.shields.io/github/actions/workflow/status/daftrich21/legion-del-mal/ci.yml)
-![Release](https://img.shields.io/github/v/release/daftrich21/legion-del-mal)
-![Issues](https://img.shields.io/github/issues/daftrich21/legion-del-mal)
-![Último commit](https://img.shields.io/github/last-commit/daftrich21/legion-del-mal)
-![Licencia](https://img.shields.io/github/license/daftrich21/legion-del-mal)
+![Workflow](https://img.shields.io/github/actions/workflow/status/daftrich21/daftrich21/ci.yml)
+![Release](https://img.shields.io/github/v/release/daftrich21/daftrich21)
+![Issues](https://img.shields.io/github/issues/daftrich21/daftrich21)
+![Último commit](https://img.shields.io/github/last-commit/daftrich21/daftrich21)
+![Licencia](https://img.shields.io/github/license/daftrich21/daftrich21)
 
 <!--
 **daftrich21/daftrich21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
